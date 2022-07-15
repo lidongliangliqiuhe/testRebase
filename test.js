@@ -6,3 +6,5 @@ let b1 = 2.5;
 let b2 = 2.55;
 let c = 3;
 let d = 4;
+let c1 = 3.5;
+let e = 5;
